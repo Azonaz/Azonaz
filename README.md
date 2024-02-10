@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Anastasiia</h1>
+<h2 align="center">Hi 👋, I'm Anastasiia</h2>
 <h3 align="center">iOS developer from Cyprus</h3>
 
 - 🔭 I’m currently working on **new movile app**
 
-- 🌱 I’m currently learning **Developing Applications for iOS using SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Azonaz?tab=repositories](https://github.com/Azonaz?tab=repositories)
 
-- 📫 How to reach me **malinina.a@gmail.com**
+- 💬 **telegram: @LilAzonaz**
+
+- 📫 **malinina.a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  telegram: @LilAzonaz
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anastasiia-malinina-aa59742a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anastasiia-malinina-aa59742a2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
