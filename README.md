@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Anastasiia</h2>
-<h3 align="center">iOS developer from Cyprus</h3>
+<h2 align="left">Hi 👋, I'm Anastasiia</h2>
+<h3 align="left">iOS developer from Cyprus</h3>
 
 - 🔭 I’m currently working on **new movile app**
 
