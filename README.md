@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋, I'm Anastasiia</h2>
 <h3 align="left">iOS developer from Cyprus</h3>
 
-- 🌱 I’m currently learning **SwiftUI**
+🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Azonaz?tab=repositories](https://github.com/Azonaz?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/Azonaz?tab=repositories](https://github.com/Azonaz?tab=repositories)
 
-- 📫 **malinina.a@gmail.com**
+📫 **malinina.a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
