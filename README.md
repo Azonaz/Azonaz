@@ -11,9 +11,9 @@
 class Me: Skills {
     let frameworks = [Foundation, UIKit, Kingfisher, ProgressHUD]
     let layout = [Storyboard, Code Layout]
-    let data = [UserDefaults, Keychain, CoreData]
+    let data = [UserDefaults, Keychain, CoreData, SwiftData]
     let networking = [URlSession]
-    let dependency managers = [CocoaPods, SPM]
+    let dependencyManagers = [CocoaPods, SPM]
     let arthitectures = [MVC, MVP, MVVM]
     let designPatterns = [Delegate, Observer, Singleton, Factory]
     let designPrinciples = [OOP, POP, DRY, KISS, YAGNI, SOLID]
