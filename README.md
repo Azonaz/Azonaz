@@ -9,7 +9,7 @@
 
 ```swift
 class Me: Skills {
-    let frameworks = [Foundation, UIKit, Kingfisher, ProgressHUD]
+    let frameworks = [Foundation, UIKit, Kingfisher, ProgressHUD, SnapKit]
     let layout = [Storyboard, Code Layout]
     let data = [UserDefaults, Keychain, CoreData, SwiftData]
     let networking = [URlSession]
