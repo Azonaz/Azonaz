@@ -23,6 +23,7 @@ class Me: Skills {
 
  **My projects:**
 
+- [Greek Words A2](https://github.com/Azonaz/GreekWordsA2) A quiz app for learning Greek with a Word of the Day mini-game. (*SwiftUI, URLSession*). Published in the Apple Store.
 - [Greek Words A1](https://github.com/Azonaz/GreekWords) A quiz app for learning Greek with a Word of the Day mini-game. (*UIKit, Auto Layout Programmatically, UICollectionView, URLSession*). Published in the Apple Store.
 - [Fake NFT](https://github.com/Azonaz/iOS-FakeNFT-StarterProject-Public) An app for viewing and buying NFT pictures. (*MVVM, UIKit, Auto Layout Programmatically, UITableView, UICollectionView, Localisation, swiftgen, swiftlint, ProgressHUD, URLSession*).
 - [Tracker](https://github.com/Azonaz/Tracker) An application for forming useful habits and monitoring their fulfilment. (*MVVM, MVP, UIKit, Auto Layout Programmatically, CoreData, CocoaPods, UICollectionView, Localisation*).
