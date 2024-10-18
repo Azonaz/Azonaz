@@ -1,9 +1,7 @@
 <h3 align="left">Hi, I'm Anastasiia 👋</h3>
 <h5 align="left">iOS developer from Cyprus</h5>
 
-🏗️ I’m working on mobile apps
-
-🍏 Most of the time I'm writing on Swift
+🍏 Most of the time I'm writing on Swift 
 
 ```swift
 class Me: Skills {
