@@ -19,8 +19,8 @@ class Me: Skills {
 
  **My projects:**
 
-- [Greek Words A2](https://github.com/Azonaz/GreekWordsA2) A quiz app for learning Greek with a Word of the Day mini-game. (*SwiftUI, URLSession*). Published in the Apple Store.
-- [Greek Words A1](https://github.com/Azonaz/GreekWords) A quiz app for learning Greek with a Word of the Day mini-game. (*UIKit, Auto Layout Programmatically, UICollectionView, URLSession*). Published in the Apple Store.
+- [Greek Words A2](https://github.com/Azonaz/GreekWordsA2) A quiz app for learning Greek with a Word of the Day mini-game. (*SwiftUI, URLSession*). Published in the App Store.
+- [Greek Words A1](https://github.com/Azonaz/GreekWords) A quiz app for learning Greek with a Word of the Day mini-game. (*UIKit, Auto Layout Programmatically, UICollectionView, URLSession*). Published in the App Store.
 - [Fake NFT](https://github.com/Azonaz/iOS-FakeNFT-StarterProject-Public) An app for viewing and buying NFT pictures. (*MVVM, UIKit, Auto Layout Programmatically, UITableView, UICollectionView, Localisation, swiftgen, swiftlint, ProgressHUD, URLSession*).
 - [Tracker](https://github.com/Azonaz/Tracker) An application for forming useful habits and monitoring their fulfilment. (*MVVM, MVP, UIKit, Auto Layout Programmatically, CoreData, CocoaPods, UICollectionView, Localisation*).
 - [ImageFeed](https://github.com/Azonaz/ImageFeed) An application for displaying pictures from Unsplash.com (*MVP, UIKit, Storyboard + Auto Layout Programmatically, UIScrollView, UITableView, OAuth2 , WebView, Kingfisher, URLSession*).
