@@ -5,8 +5,8 @@
 
 ```swift
 class Me: Skills {
-    let frameworks = [Foundation, UIKit, Kingfisher, ProgressHUD, SnapKit]
-    let layout = [Storyboard, Code Layout]
+    let frameworks = [Foundation, UIKit, SwiftUI, StoreKit, Kingfisher, ProgressHUD, SnapKit]
+    let layout = [Storyboard, CodeLayout, AdaptiveLayout, SizeClasses]
     let data = [UserDefaults, Keychain, CoreData, SwiftData]
     let networking = [URlSession]
     let dependencyManagers = [CocoaPods, SPM]
