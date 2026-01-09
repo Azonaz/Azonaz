@@ -19,6 +19,7 @@ class Me: Skills {
 
  **My projects:**
 
+- [Greek Words B1](https://github.com/Azonaz/GreekWordsB1) A native iOS app for learning Greek vocabulary with quizzes and spaced-repetition training (FSRS). (SwiftUI, SwiftData, StoreKit, URLSession). Published on the App Store.
 - [BiteBook](https://github.com/Azonaz/BiteBook) An app for storing and organising recipes. (*SwiftUI, SwiftData, CloudKit*). Published in the App Store.
 - [Greek Words A2](https://github.com/Azonaz/GreekWordsA2) A native iOS app for learning Greek vocabulary with quizzes, spaced-repetition training (FSRS), verbs self-check and a Word of the Day mini-game. (SwiftUI, SwiftData, StoreKit, URLSession). Published on the App Store.
 - [Greek Words A1](https://github.com/Azonaz/GreekWords) A native iOS app for learning Greek vocabulary with quizzes, spaced-repetition training (FSRS) and a Word of the Day mini-game. (SwiftUI, SwiftData, StoreKit, URLSession). Published on the App Store.
